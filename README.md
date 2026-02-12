@@ -1,0 +1,66 @@
+# RADWIMPS – セツナレンサ
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:22.37] I was about to fall into this place
+[00:24.13] Where I can never crawl up
+[00:25.88] I should've been to Hollywood and meet Eddie Murphy and say
+[00:29.01] 'Tike tike yo tike tike yo kiddy yo
+[00:30.24] Hi Mr. please entertain us'
+[00:43.74] 
+[00:34.52] Why am I be the only bitch
+[00:36.71] Who's sick and black of this shit and flak
+[00:38.46] And why do you asking me this homey quiz
+[00:39.96] Hitchhike, which type? Which kind of music
+[00:41.55] Whether hiphopopopari- rock'en' roll techno disco?
+[00:43.41] Let go now, cut it out
+[00:45.47] Why that I should be such a fan of me why? Why? Why? Why?
+[01:13.97] 
+[00:54.92] I am about to fall into this puddle I can never crawl up
+[00:57.79] I've already been to Hollywood and met Eddie Murphy he said
+[01:01.13] 'Chili-chili-out-chil-chili-out kiddy yo'
+[01:02.52] Here's a quarter buy yourself a grave
+[01:21.02] 
+[01:07.07] We should I have to explain this shit each time
+[01:09.19] This mind devise this sight
+[01:10.50] And why that I have to analyze?
+[01:12.31] Inside this mind designs this style
+[01:13.62] Talila talila talilalilalila Galileo Galilei,
+[01:16.73] Honey where the heck am I?
+[01:17.60] Mind if I could be one of your enemies Mind? Mind? Mind? Mind?
+[01:48.60] 
+[01:20.29] 楽しくないのに僕たちは 心に黙って笑えるから
+[01:30.96] 悲しくないのに僕たちは どこからか涙流せるから
+[01:42.46] 
+[01:33.16] Hey, dear my friend I want you to be,
+[01:36.04] As I wanted you to be, indeed
+[01:39.01] You know why? You know why well then ask in your mind
+[01:42.37] Now I'm tired to make an agree
+[01:45.01] Hey, dear myself I want you to be, as you wanted to be, indeed
+[01:51.82] Oh, by the way oh, by the way oh, by the way do as what I say
+[02:22.32] 
+[02:10.64] 昨日守ってたナニカをね 明日は壊してしまうけど
+[02:17.15] 昨日交わした約束もね 明日は破ってしまうけど
+[02:28.15] 
+[02:23.51] 今の僕は ここにいるよ 大事な人もいるんだよ
+[02:29.65] 守っている約束もね 今は 今は 今は あるよ
+[02:40.65] 
+[02:36.19] 優しくないけど僕たちは 誰かを守ってみたいんだ
+[02:45.13] 寂しくないけど僕たちは 誰かと笑っていたいんだ
+[02:56.63] 
+[02:51.66] 虚しくないのに僕たちは まん丸い月を見上げるのは
+[02:58.15] 誰かに僕を見ていてほしい 嘘つきな僕を見ていてほしい
+[03:11.15] 
+[03:04.49] 切なくないのに僕たちは 悲しい歌聴きたくなるのは
+[03:11.02] 誰かに僕が似ていてほしい 嘘つきな僕に似ていてほしい から
+[03:25.52] 
+[03:18.96] Hey, dear my friend I won't let you know,
+[03:19.77] Or I won't try to show how I feel
+[03:20.25] You know why? You know why well then ask in your mind
+[03:20.66] Now I'm tired of being admired
+[03:21.20] Hey, dear myself don't leave me alone
+[03:21.57] Don't ease me along how I feel
+[03:22.03] You know why? You know why well then ask in your mind
+[03:22.50] In your mind is my mind otherwise who am I?
+```
