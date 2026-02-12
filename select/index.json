@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "セツナレンサ",
+  "base_artist": "RADWIMPS",
+  "createdAt": "2026-02-12T06:13:20.167527Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "セツナレンサ",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_セツナレンサ_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "セツナレンサ",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/02_セツナレンサ_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "セツナレンサ",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/03_セツナレンサ_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "セツナレンサ",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/04_セツナレンサ_RADWIMPS.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "セツナレンサ",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_セツナレンサ_RADWIMPS.txt"
+    }
+  ]
+}
